@@ -84,6 +84,14 @@ const EducationalResources: NextPage = () => {
                 Architecting on AWS
               </a>
               <br />
+              <a
+                href="https://docs.aws.amazon.com/aws-certification/latest/examguides/aws-certification-exam-guides.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                AWS Certification Exam Guides
+              </a>
+              <br/>
             </div>
           </p>
           &nbsp;
