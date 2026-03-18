@@ -285,7 +285,7 @@ const Contributors: NextPage = () => {
                 </td>
               <tr>
                 <td align="center" className={styles.tableData}>
-    
+                  <a
                        href="https://github.com/shubsolos19"
                        target="_blank"
                        rel="noopener noreferrer"
